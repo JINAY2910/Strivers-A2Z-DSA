@@ -11,6 +11,6 @@ This repo contains coding solutions for the **Striver's A2Z Data Structures & Al
 - Programming Languages: C++ & Java
 
 ## ⚡ Usage
-1. Clone the repo:  
+- Clone the repo:  
    ```bash
    git clone https://github.com/JINAY2910/Strivers-A2Z-DSA.git
