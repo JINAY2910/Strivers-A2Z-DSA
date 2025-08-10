@@ -1,2 +1,17 @@
-# Strivers-A2Z-DSA
-This repository contains coding solutions for the Striver's A2Z Data Structures and Algorithms (DSA) course. It includes well-structured implementations of various data structures, algorithm problems, and coding challenges covered throughout the course.
+# 🚀 A2Z DSA Course - Code Solutions
+
+This repo contains coding solutions for the **A2Z Data Structures & Algorithms (DSA)** course.  
+Topics include Arrays, Linked Lists, Trees, Graphs, Sorting, Searching, and Dynamic Programming.
+
+## ✨ Features
+- 📝 Clean, well-commented code  
+- 📂 Organized by topic  
+- 🎯 Perfect for learning & interview prep
+
+## 💻 Tech
+- Programming Language: *[Your Language]* (e.g., Python, C++, Java)
+
+## ⚡ Usage
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/yourusername/a2z-dsa-solutions.git
