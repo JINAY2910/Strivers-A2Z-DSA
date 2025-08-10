@@ -1,6 +1,6 @@
 # 🚀 A2Z DSA Course - Code Solutions
 
-This repo contains coding solutions for the **A2Z Data Structures & Algorithms (DSA)** course.  
+This repo contains coding solutions for the **Striver's A2Z Data Structures & Algorithms (DSA)** course.  
 
 ## ✨ Features
 - 📝 Clean code  
