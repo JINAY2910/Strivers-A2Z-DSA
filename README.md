@@ -1,10 +1,9 @@
 # 🚀 A2Z DSA Course - Code Solutions
 
 This repo contains coding solutions for the **A2Z Data Structures & Algorithms (DSA)** course.  
-Topics include Arrays, Linked Lists, Trees, Graphs, Sorting, Searching, and Dynamic Programming.
 
 ## ✨ Features
-- 📝 Clean, well-commented code  
+- 📝 Clean code  
 - 📂 Organized by topic  
 - 🎯 Perfect for learning & interview prep
 
