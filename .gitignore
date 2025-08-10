@@ -1,0 +1,28 @@
+# C++ Files
+*.o
+*.exe
+*.out
+build/
+bin/
+
+# Java Files
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+*.suo
+.vs/
+
+# macOS and Windows
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
