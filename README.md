@@ -9,9 +9,9 @@ Topics include Arrays, Linked Lists, Trees, Graphs, Sorting, Searching, and Dyna
 - 🎯 Perfect for learning & interview prep
 
 ## 💻 Tech
-- Programming Language: *[Your Language]* (e.g., Python, C++, Java)
+- Programming Languages: C++ & Java
 
 ## ⚡ Usage
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/a2z-dsa-solutions.git
+   git clone https://github.com/JINAY2910/a2z-dsa-solutions.git
