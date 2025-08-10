@@ -13,4 +13,4 @@ This repo contains coding solutions for the **Striver's A2Z Data Structures & Al
 ## ⚡ Usage
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/JINAY2910/a2z-dsa-solutions.git
+   git clone https://github.com/JINAY2910/Strivers-A2Z-DSA.git
