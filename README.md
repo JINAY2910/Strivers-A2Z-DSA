@@ -8,7 +8,7 @@ This repo contains coding solutions for the **Striver's A2Z Data Structures & Al
 - 🎯 Perfect for learning & interview prep
 
 ## 💻 Tech
-- Programming Languages: C++ & Java
+- Programming Languages: Java
 
 ## ⚡ Usage
 - Clone the repo:  
